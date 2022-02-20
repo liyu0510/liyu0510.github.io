@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /code/
+title: "Code"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /code.html
 ---
 
 ## Locations of key files/directories
