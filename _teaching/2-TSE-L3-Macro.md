@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Macroeconomics, Undergraduate 3rd year"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/TSE-L3-Macro
+venue: "Toulouse School of Economics"
+date: 2021-09-01
+# location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
