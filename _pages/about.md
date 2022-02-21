@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Github [homepage](https://github.com/liyu0510).
-
-
-
 
 
 ### Contact: [li.yu[at]tse-fr.eu](mailto:li.yu@tse-fr.eu)
