@@ -1,5 +1,5 @@
 ---
-title: "Shadow Banking vs. Banking"
+title: "Shadow Banking vs. Banking Variation"
 collection: research
 type: "Working paper"
 permalink: /research/WP-shadowbanking

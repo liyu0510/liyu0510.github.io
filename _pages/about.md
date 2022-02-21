@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Github [homepage](https://github.com/liyu0510/liyu0510.github.io).
+Github [homepage](https://github.com/liyu0510).
 
 
 

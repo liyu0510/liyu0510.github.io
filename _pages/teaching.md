@@ -12,7 +12,7 @@ author_profile: true
 *Fall semester of 2020 and 2021. Teaching assitant for professor Tiziana Assenza, Nicolas Werquin, Fabrice Collard, Patrick Fève.*
 
 ### Topics in Macroeconomics, Undergraduate 3rd year
-*Spring semester for 2018 and 2019. Fall semester for 2020. Teaching assitant for professor Sumudu Kankanamge*
+*Spring semester of 2018 and 2019. Fall semester for 2020. Teaching assitant for professor Sumudu Kankanamge*
 
 ### Macroeconomics, Undergraduate 2nd year
 *Fall semester of 2021. Teaching assitant for professor and professor Patrick Fève.*
