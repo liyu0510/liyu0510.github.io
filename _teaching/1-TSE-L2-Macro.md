@@ -1,5 +1,5 @@
 ---
-title: "Topics in Macroeconomics, Undergraduate 2nd year"
+title: "Macroeconomics, Undergraduate 2nd year"
 collection: teaching
 type: "Teaching Assitant"
 permalink: /teaching/TSE-L2-Macro
