@@ -4,11 +4,11 @@ collection: teaching
 type: "Macroeconomics"
 permalink: /teaching/TSE-M1-Macro
 venue: "Toulouse School of Economics"
-date: Fall 2020, 2021
-location: "City, Country"
+# date: Fall 2020, 2021
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Fall semester of 2020 and 2021. Teaching assitant for professor  and professor .
 
 Heading 1
 ======

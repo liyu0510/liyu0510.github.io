@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Topics in Macroeconomics, Undergraduate 2nd year"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/TSE-L2-Macro
+venue: "Toulouse School of Economics"
+# date: 2021-01-01
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Fall semester of 2021. Teaching assitant for professor  and professor .
 
 Heading 1
 ======
