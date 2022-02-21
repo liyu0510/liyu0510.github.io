@@ -1,7 +1,7 @@
 ---
 title: "Bank Home Bias and Monetary Policy"
 collection: research
-type: "working paper"
+type: "Working paper"
 permalink: /research/WP-bankhomebias
 date: 2022-01-01
 # location: "City, Country"

@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Shock(s)"
 collection: research
-type: "working paper"
+type: "Working paper"
 permalink: /research/WP-uncertainty
 date: 2022-01-01
 # location: "City, Country"
