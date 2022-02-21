@@ -3,7 +3,7 @@ title: "Bank Home Bias and Monetary Policy"
 collection: research
 type: "working paper"
 permalink: /research/WP-bankhomebias
-venue: "joint with Philipp Wangner"
+author: "joint with Philipp Wangner"
 date: 2022-01-01
 # location: "City, Country"
 ---

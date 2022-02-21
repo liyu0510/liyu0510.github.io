@@ -3,7 +3,7 @@ title: "Uncertainty Shock(s)"
 collection: research
 type: "working paper"
 permalink: /research/WP-uncertainty
-venue: "joint with Hussein Bidawi"
+author: "joint with Hussein Bidawi"
 date: 2022-01-01
 # location: "City, Country"
 ---
