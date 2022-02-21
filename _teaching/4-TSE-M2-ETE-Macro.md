@@ -8,7 +8,7 @@ date: 2022-01-01
 # location: "City, Country"
 ---
 
-Spring semester of 2021 and 2022. Teaching assitant for professor  and professor .
+Spring semester of 2021 and 2022. Teaching assitant for professor CH and professor EG.
 
 Heading 1
 ======

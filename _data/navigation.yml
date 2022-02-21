@@ -16,7 +16,7 @@ main:
     url: /code/
         
   - title: "Data"
-    url: /data/
+    url: /datasource/
     
   - title: "CV"
     url: /cv/

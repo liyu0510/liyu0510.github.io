@@ -1,7 +1,7 @@
 ---
 title: 'Equity Home Bias'
 date: 2022-01-01
-permalink: /equity/bankhomebias
+permalink: /datasource/equityhomebias
 tags:
   - data
   - replicate

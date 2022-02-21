@@ -1,7 +1,7 @@
 ---
 title: 'Bank Home Bias'
 date: 2022-01-01
-permalink: /data/bankhomebias
+permalink: /datasource/bankhomebias
 tags:
   - data
   - replicate
