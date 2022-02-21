@@ -8,7 +8,7 @@ date: 2022-01-01
 # location: "City, Country"
 ---
 
-Spring semester of 2021 and 2022. Teaching assitant for professor CH and professor EG.
+Spring semester of 2021 and 2022. Teaching assitant for professor professors Christian Hellwig & Eugenia Gonzalez-Aguado.
 
 Heading 1
 ======
