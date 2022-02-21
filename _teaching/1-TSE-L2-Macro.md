@@ -1,10 +1,10 @@
 ---
 title: "Topics in Macroeconomics, Undergraduate 2nd year"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assitant"
 permalink: /teaching/TSE-L2-Macro
 venue: "Toulouse School of Economics"
-# date: 2021-01-01
+date: 2021-01-01
 # location: "City, Country"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Macroeconomics, Master 1st year"
 collection: teaching
-type: "Macroeconomics"
+type: "Teaching Assitant"
 permalink: /teaching/TSE-M1-Macro
 venue: "Toulouse School of Economics"
-# date: Fall 2020, 2021
+date: 2021-01-01
 # location: "City, Country"
 ---
 

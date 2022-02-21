@@ -1,10 +1,10 @@
 ---
 title: "Macroeconomics, PhD 1st year"
 collection: teaching
-type: "Macroeconomics"
+type: "Teaching Assitant"
 permalink: /teaching/TSE-M2-ETE
 venue: "Toulouse School of Economics"
-# date: Spring 2021, 2022
+date: 2022-01-01
 # location: "City, Country"
 ---
 
