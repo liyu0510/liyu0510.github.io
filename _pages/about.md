@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-[information](https://github.com/liyu0510/liyu0510.github.io).
+Github [homepage](https://github.com/liyu0510/liyu0510.github.io).
 
 
-#### Research
+
 
 
 #### Contact: li.yu[at]tse-fr.eu
