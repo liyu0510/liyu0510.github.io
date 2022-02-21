@@ -1,7 +1,8 @@
 ---
 title: "Paper Title Number 1"
 collection: research
-permalink: /research/2009-10-01-paper-title-number-1
+type: "Working paper"
+permalink: /research/wp-bankhomebias
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 venue: 'Journal 1'
 date: 2009-10-01
