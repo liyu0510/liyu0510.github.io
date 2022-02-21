@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Yu / Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Li Yu"
 description              : &description "personal description"
@@ -198,10 +198,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      # read_time: true
-      comments: true
       share: true
-      # related: true
+      comments: true
   # _pages
   - scope:
       path: ""
