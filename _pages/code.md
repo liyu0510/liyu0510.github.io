@@ -7,7 +7,8 @@ redirect_from:
   - /code.html
 ---
 
-## Toolbox for [Structural VAR] (https://github.com/liyu0510/Tool_VARToolBoxPublic)
+## Toolbox for Structural VAR 
+* Toolbox [download](https://github.com/liyu0510/Tool_VARToolBoxPublic)
 * Basic Usage
 * Tips and Hints
 
