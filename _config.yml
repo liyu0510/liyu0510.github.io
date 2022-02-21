@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Yu / Website"
+title                    : "Li Yu / Homepage"
 title_separator          : "-"
 name                     : &name "Li Yu"
 description              : &description "personal description"

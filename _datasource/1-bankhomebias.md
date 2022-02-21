@@ -1,8 +1,10 @@
 ---
 title: 'Bank Home Bias'
 collection: datasource
-date: 2022-01-01
+type: "Replicate"
 permalink: /datasource/bankhomebias
+venue: "Bank Home Bias"
+date: 2022-01-01
 ---
 
 Replicate data for bank home bias. Coming up soon.
