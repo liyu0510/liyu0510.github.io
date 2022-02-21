@@ -7,14 +7,14 @@ redirect_from:
   - /code.html
 ---
 
-## Structural VAR Toolbox
+### Structural VAR Toolbox
 * Toolbox [download](https://github.com/liyu0510/Tool_VARToolBoxPublic)
 * Basic usage
 * Tips and hints
 
-## High Frequency Identification
+### High Frequency Identification
 
-## Replication Code 
+### Replication Code 
 * Gertler and Karadi (2015)
 * BDG (2020)
 
