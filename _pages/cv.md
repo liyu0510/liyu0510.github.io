@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-This is about me [information](https://github.com/liyu0510/liyu0510.github.io).
+You can find my cv [here](https://www.dropbox.com/s/kkqoyvcbf6y74jp/Template_CV.pdf?dl=0).
 
