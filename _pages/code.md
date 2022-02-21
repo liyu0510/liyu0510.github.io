@@ -7,9 +7,9 @@ redirect_from:
   - /code.html
 ---
 
-#### Structural VAR Toolbox
-* #### Toolbox [download](https://github.com/liyu0510/Tool_VARToolBoxPublic)
-* #### Basic usage
+### Structural VAR Toolbox
+* Toolbox [download](https://github.com/liyu0510/Tool_VARToolBoxPublic)
+* Basic usage
 * Tips and hints
 
 ### High Frequency Identification
