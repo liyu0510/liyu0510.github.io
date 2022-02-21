@@ -8,9 +8,7 @@ date: Spring 2021, 2022
 # location: "City, Country"
 ---
 
-## Locations of key files/directories
-
-* Teaching assitant for professor  and professor .
+Teaching assitant for professor  and professor .
 
 Heading 1
 ======

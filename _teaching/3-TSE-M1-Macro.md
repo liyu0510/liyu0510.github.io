@@ -1,10 +1,10 @@
 ---
-## title: "Teaching experience 2"
+title: "Macroeconomics, Master 1st year"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Macroeconomics"
+permalink: /teaching/TSE-M1-Macro
+venue: "Toulouse School of Economics"
+date: Fall 2020, 2021
 location: "City, Country"
 ---
 
