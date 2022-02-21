@@ -1,12 +1,12 @@
 ---
 layout: archive
-permalink: /data/
 title: "Data"
+permalink: /data/
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-{% for post in site.posts reversed %}
+{% include base_path %}
+
+{% for post in site.datasource reversed %}
   {% include archive-single.html %}
 {% endfor %}

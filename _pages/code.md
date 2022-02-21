@@ -9,8 +9,8 @@ redirect_from:
 
 ## Toolbox for Structural VAR 
 * Toolbox [download](https://github.com/liyu0510/Tool_VARToolBoxPublic)
-* Basic Usage
-* Tips and Hints
+* Basic usage
+* Tips and hints
 
 ## High Frequency Identification
 
