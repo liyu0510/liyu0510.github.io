@@ -9,7 +9,7 @@ author_profile: true
 *Coming soon.*
 
 ### Replication data for equity home bias
-*Coming soon.
+*Coming soon.*
 
 <!-- {% include base_path %}
 
