@@ -12,7 +12,7 @@ Welcome!
 
 I am a Ph.D. candidate in Economics at [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/). 
 
-My main research field is Macroeconomics and Financial Intermediaries. 
+My main research field is Macroeconomics, Financial Intermediaries, and Uncertainty.
 
 
 #### Contact: [li.yu[at]tse-fr.eu](mailto:li.yu@tse-fr.eu)
