@@ -6,22 +6,22 @@ author_profile: true
 ---
 
 ### Graduate Level
-- Macroeconomics, Master 1st year
+- **Macroeconomics, Master 1st year.**
 *Fall semester of 2020 & 2021. Teaching assistant for professor Tiziana Assenza, Nicolas Werquin, Fabrice Collard, Patrick Fève.*
 
-- Macroeconomics, PhD 1st year
+- **Macroeconomics, PhD 1st year.**
 *Spring semester of 2021 & 2022. Teaching assistant for professor Christian Hellwig & Eugenia Gonzalez-Aguado.*
 
 
 
 ### Undergraduate Level
--  Macroeconomics, Undergraduate 2nd year
+-  **Macroeconomics, Undergraduate 2nd year.**
 *Fall semester of 2021. Teaching assistant for professor Patrick Fève.*
 
-- Topics in Macroeconomics I, Undergraduate 3rd year
+- **Topics in Macroeconomics I, Undergraduate 3rd year.**
 *Fall semester of 2020. Teaching assistant for professor Nicolas Lepage-Saucier.*
 
-- Topics in Macroeconomics II, Undergraduate 3rd year
+- **Topics in Macroeconomics II, Undergraduate 3rd year.**
 *Spring semester of 2018 & 2019.Teaching assistant for professor Sumudu Kankanamge.*
 
 

@@ -5,11 +5,12 @@ permalink: /datasource/
 author_profile: true
 ---
 
-### Replication data for bank home bias
-*Coming soon.*
+### Data for Home Bias Index *Coming soon.*
+- Bank home bias
+- Equity home bias
 
-### Replication data for equity home bias
-*Coming soon.*
+
+
 
 <!-- {% include base_path %}
 

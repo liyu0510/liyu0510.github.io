@@ -7,15 +7,13 @@ redirect_from:
   - /code.html
 ---
 
-### Structural VAR Toolbox
-* Toolbox [download](https://github.com/liyu0510/Tool_VARToolBoxPublic)
-* Basic usage
-* Tips and hints
+### Structural VAR Model
+- Toolbox [repository](https://github.com/liyu0510/Tool_VARToolBoxPublic)
+- Tips and hints
+- Replication
+  - Gertler and Karadi (2015)
+  - Berger, Dew-Becker, and Giglio (2020)
 
-### High Frequency Identification
+### Incomplete-market Portfolio Problem: Approximated Global Solution Method
 
-### Replication Code 
-* Gertler and Karadi (2015)
-* BDG (2020)
-
-
+### 
