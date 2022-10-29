@@ -16,4 +16,5 @@ redirect_from:
   - Berger, Dew-Becker, and Giglio (2020)
 
 ### Incomplete-market Portfolio Problem: An Approximated Global Solution Method
-
+- Algorithm description
+- Code
