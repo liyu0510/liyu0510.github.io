@@ -1,7 +1,8 @@
 ---
+permalink: /code/
 title: "Code"
 author_profile: true
-permalink: /code/
+layout: archive
 redirect_from: 
   - /md/
   - /code.html
