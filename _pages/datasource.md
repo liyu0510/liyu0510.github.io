@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Data"
 permalink: /datasource/
+title: "Data"
 author_profile: true
+layout: archive
 ---
 
 ### Data for Home Bias Index 

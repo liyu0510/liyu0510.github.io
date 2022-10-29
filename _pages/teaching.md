@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teaching/
+title: "Teaching"
 author_profile: true
+layout: archive
 ---
 
 ### Graduate Level

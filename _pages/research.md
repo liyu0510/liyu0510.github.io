@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Research"
 permalink: /research/
+title: "Research"
 author_profile: true
+layout: archive
 ---
 
 ## Working Paper

@@ -1,7 +1,7 @@
 ---
-permalink: /code/
 title: "Code"
 author_profile: true
+permalink: /code/
 redirect_from: 
   - /md/
   - /code.html
