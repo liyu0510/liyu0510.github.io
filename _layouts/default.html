@@ -18,16 +18,14 @@ layout: compress
 
     {{ content }}
 
-
+{% comment %}
     <div class="page__footer">
       <footer>
-        {% comment %}
         {% include footer/custom.html %}
-        {% endcomment %}
         {% include footer.html %}
       </footer>
     </div>
-
+{% endcomment %}
 
     {% include scripts.html %}
 
