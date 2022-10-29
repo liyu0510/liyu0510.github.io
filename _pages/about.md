@@ -12,7 +12,7 @@ Welcome!
 
 I am a Ph.D. candidate in Economics at [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/). 
 
-My main research fields are: Monetary Economics, Macro-finance, Empirical Macroeconomcis, Information and Uncertainty.
+My research interests are Monetary Economics, Macro-finance, Empirical Macroeconomcis, and Information and Uncertainty.
 
 I will be on the job market for the year 2022-2023. 
 
@@ -20,12 +20,6 @@ Here is my CV [here](https://www.dropbox.com/s/lfrtlecfpq6ny56/Template_CV_curre
 
 
 
-### Contact
-- 
-
-<ul>
-  <li> Email: [li.yu[at]tse-fr.eu](mailto:li.yu@tse-fr.eu) </li>
-  <li> Address: 1 Esplanade de l’Universit\'{e}, 31080 Cedex 06, Toulouse, France</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ul>
+### Contact:
+- Email: [li.yu@tse-fr.eu](mailto:li.yu@tse-fr.eu)
+- Address: 1 Esplanade de l’Universite, 31080 Cedex 06, Toulouse, France
