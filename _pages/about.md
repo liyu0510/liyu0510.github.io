@@ -16,14 +16,9 @@ I will be on the job market for the year 2022-2023, and I am available for inter
 
 Here are my [CV](https://www.dropbox.com/s/lfrtlecfpq6ny56/Template_CV_current.pdf?dl=0) and [JMP]().
 
-Research interests:
+### Research interests:
 - Primary: Monetary Economics, Macro-finance
 - Secondary: Empirical Macroeconomics, Information and Uncertainty
-
-
-
-
-
 
 
 ### Contact

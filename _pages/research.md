@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+## Working Paper
+
 {% include base_path %}
 
 {% for post in site.research reversed %}
@@ -17,6 +19,6 @@ author_profile: true
 
 ---
 
-## Work in progress
+## Work in Progress
 - Shadow Banks and Economic Instability with Two-sided Financial Frictions
 - E-commerce Platforms and Inflation Pass-through, Joint with [Luise Eisfeld](https://luiseeisfeld.github.io/) and [Jun Yan](https://sites.google.com/view/jun-yan)
