@@ -16,10 +16,10 @@ My research interests are Monetary Economics, Macro-finance, Empirical Macroecon
 
 I will be on the job market for the year 2022-2023. 
 
-Here are my [CV](https://www.dropbox.com/s/lfrtlecfpq6ny56/Template_CV_current.pdf?dl=0) and my [JMP]().
+Here are my [CV](https://www.dropbox.com/s/lfrtlecfpq6ny56/Template_CV_current.pdf?dl=0) and [JMP]().
 
 
 
-### Contact:
+### Contact
 - Email: [li.yu@tse-fr.eu](mailto:li.yu@tse-fr.eu)
 - Address: 1 Esplanade de l’Universite, 31080 Cedex 06, Toulouse, France
