@@ -16,4 +16,3 @@ redirect_from:
 
 ### Incomplete-market Portfolio Problem: Approximated Global Solution Method
 
-### 
