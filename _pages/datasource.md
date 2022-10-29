@@ -5,11 +5,13 @@ permalink: /datasource/
 author_profile: true
 ---
 
-### Data for Home Bias Index *Coming soon.*
-- Bank home bias
+### Data for Home Bias Index 
+*Coming soon.*
+- Bank home bias 
 - Equity home bias
 
-### China Inflation Index *Coming soon.*
+### China Inflation Index 
+*Coming soon.*
 - Aggregate index
 - Categorical index
 

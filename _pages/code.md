@@ -14,5 +14,5 @@ redirect_from:
   - Gertler and Karadi (2015)
   - Berger, Dew-Becker, and Giglio (2020)
 
-### Incomplete-market Portfolio Problem: Approximated Global Solution Method
+### Incomplete-market Portfolio Problem: An Approximated Global Solution Method
 
