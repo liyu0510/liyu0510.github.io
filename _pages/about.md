@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Li Yu"
+excerpt: "Li Yu"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /Li Yu/
   - /about.html
 ---
 
