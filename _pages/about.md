@@ -10,13 +10,13 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. candidate in Economics at [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/). 
+I am a Ph.D. candidate in Economics at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/). 
 
-My research interests are Monetary Economics, Macro-finance, Empirical Macroeconomcis, and Information and Uncertainty.
+My research interests are Monetary Economics, Macro-finance, Empirical Macroeconomics, and Information and Uncertainty.
 
 I will be on the job market for the year 2022-2023. 
 
-Here is my CV [here](https://www.dropbox.com/s/lfrtlecfpq6ny56/Template_CV_current.pdf?dl=0) and my [JMP]().
+Here are my [CV](https://www.dropbox.com/s/lfrtlecfpq6ny56/Template_CV_current.pdf?dl=0) and my [JMP]().
 
 
 
