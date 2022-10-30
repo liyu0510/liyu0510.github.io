@@ -16,7 +16,7 @@ My research interests
 - Primary: Monetary Economics, Macro-finance
 - Secondary: Empirical Macroeconomics, Information and Uncertainty
 
-I will be on the job market for the year 2022-2023, and I am available for interviews.  
+I will be on the job market for the academic year 2022-2023, and I am available for interviews.  
 
 Here are my [CV](https://www.dropbox.com/s/pxr20snx408o5vm/CV%20%282%29.pdf?dl=0) and [JMP]().
 
