@@ -5,15 +5,16 @@ author_profile: true
 layout: archive
 ---
 
-### Data for Home Bias Index 
+### Home Bias Index 
 *Coming soon.*
 - Bank home bias 
 - Equity home bias
 
-### China Inflation Index 
+### China Inflation Index
 *Coming soon.*
-- Aggregate index
-- Categorical index
+- Aggregate level
+- Categorical level
+- Provincial level
 
 <!-- {% include base_path %}
 
