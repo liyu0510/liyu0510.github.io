@@ -4,7 +4,6 @@ title: "Li Yu (余莉)"
 excerpt: "Li Yu"
 author_profile: true
 redirect_from: 
-  - /Li Yu/
   - /about.html
 ---
 
