@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Li Yu (余莉)"
-excerpt: ""
 author_profile: true
 
 ---
