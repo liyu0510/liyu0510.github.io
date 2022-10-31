@@ -5,6 +5,7 @@ author_profile: true
 layout: archive
 redirect_from:
   - /resume
+order: 1
 ---
 
 {% include base_path %}
