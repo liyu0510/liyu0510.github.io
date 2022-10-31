@@ -1,10 +1,9 @@
 ---
 permalink: /
 title: "Li Yu (余莉)"
-excerpt: "Li Yu"
+excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about.html
+
 ---
 
 Welcome!
