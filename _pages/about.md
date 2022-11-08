@@ -7,7 +7,7 @@ author_profile: true
 
 Welcome!
 
-I am a Ph.D. Candidate in Economics at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/). You can find my curriculum vitae [here](https://www.dropbox.com/s/pxr20snx408o5vm/CV%20%282%29.pdf?dl=0).
+I am a Ph.D. Candidate in Economics at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/). You can find my curriculum vitae [here](https://drive.google.com/file/d/1T9ME0s2kMwCHrIipw5PoK9c5ZZhOOhSq/view?usp=sharing).
 
 
 **I am on the job market for the academic year 2022-2023 and available for interviews at the EJME and ASSA meetings.**  
