@@ -13,12 +13,14 @@ I am a Ph.D. candidate in Economics at the [Toulouse School of Economics (TSE)](
 **I am on the job market for the academic year 2022-2023 and available for interviews at the EJME and ASSA meetings.**  
 
 
-**My research interests**：
+**My research interests**
 - Primary: Monetary Economics, Macro-Finance
 - Secondary: Quantitative Macroeconomics, Macro-Banking, Uncertainty
 
 
-**Job Market Paper**: Monetary Policy and Global Bank Lending: A Reversal Interest Rate Approach [(Latest version)](https://drive.google.com/file/d/1AdQv3RGbJEmCC-exIgFa1ps7yPveezIc/view?usp=share_link).
+**Job Market Paper** [(Latest version)](https://drive.google.com/file/d/1AdQv3RGbJEmCC-exIgFa1ps7yPveezIc/view?usp=share_link).
+
+**Monetary Policy and Global Bank Lending: A Reversal Interest Rate Approach** 
 
 *Joint with Philipp Wangner*
 
