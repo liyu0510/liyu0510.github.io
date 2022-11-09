@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@liyu0510 
+academicpages
+/
+academicpages.github.io
+Public
+Code
+Issues
+150
+Pull requests
+186
+Actions
+Projects
+Security
+Insights
+academicpages.github.io/_sass/_sidebar.scss
+@kc9jud
+kc9jud sidebar: Let avatar height vary
+…
+Latest commit 720256a on Dec 21, 2018
+ History
+ 2 contributors
+@staeiou@kc9jud
+237 lines (198 sloc)  4 KB
+
 /* ==========================================================================
    SIDEBAR
    ========================================================================== */
@@ -72,7 +103,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 72px;
+  width: 200px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -83,7 +114,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 200px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -235,3 +266,18 @@
     }
   }
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+academicpages.github.io/_sidebar.scss at master · academicpages/academicpages.github.io
