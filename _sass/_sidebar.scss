@@ -45,7 +45,7 @@
   }
 
   img {
-    width: 140%;
+    width: 120%;
   }
 }
 
@@ -88,10 +88,10 @@
     margin: auto;
     padding: 7px;
 
-    // @include breakpoint($large) {
-    //  padding: 5px;
-    //  border: 1px solid $border-color;
-    // }
+    @include breakpoint($large) {
+    padding: 5px;
+    border: 1px solid $border-color;
+    }
   }
 }
 
