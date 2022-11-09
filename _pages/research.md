@@ -5,7 +5,8 @@ author_profile: true
 layout: archive
 ---
 
-**Monetary Policy and Global Bank Lending: A Reversal Interest Rate Approach**
+**Monetary Policy and Global Bank Lending: A Reversal Interest Rate Approach**   [*(Latest version)*](https://drive.google.com/file/d/1AdQv3RGbJEmCC-exIgFa1ps7yPveezIc/view?usp=share_link)
+
 
 Joint with [Philipp Wangner](https://www.pwangner.com/home). *Job Market Paper*.
 
