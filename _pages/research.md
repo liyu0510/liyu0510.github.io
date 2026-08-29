@@ -73,7 +73,7 @@ WORKING PAPERS
 </h3>
 
 **Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon**  
-with [Luise Eisfeld](https://luiseeisfeld.github.io/) and [Jun Yan](https://sites.google.com/view/jun-yan)  
 [*(Latest version)*](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) 
+with [Luise Eisfeld](https://luiseeisfeld.github.io/) and [Jun Yan](https://sites.google.com/view/jun-yan)  
 
 We study how hybrid platform operation shapes price competition when a platform simultaneously competes with third-party sellers and earns commission revenue from their sales. We show how revenue sharing and commission-induced double markup generate asymmetric pricing incentives and cost pass-through between the platform and third-party sellers.
