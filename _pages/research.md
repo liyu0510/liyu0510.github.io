@@ -6,7 +6,7 @@ layout: archive
 ---
 
 
-<div style="border-left: 4px solid #4aa3c2; padding-left: 1em; margin-bottom: 2em;">
+<div markdown="1" style="border-left: 4px solid #4aa3c2; padding-left: 1em; margin-bottom: 2em;">
 
 <p style="color:#4a96b3; font-style:italic; font-weight:600; font-size:1.15em; margin-bottom:0.7em;">
 Latest draft · August 2026
@@ -39,10 +39,8 @@ SELECTED WORK IN PROGRESS
 </h3>
 
 **Geopolitical Oil Shocks**    
-*Draft coming soon.*
 
 **Uncertainty Shock(s)**
-*Draft coming soon.*
 
 ---
 
