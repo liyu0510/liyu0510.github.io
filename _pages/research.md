@@ -6,17 +6,21 @@ layout: archive
 ---
 
 
-<p style="color:#666; font-style:italic; margin-bottom:0.4em;">
+<div style="border-left: 4px solid #4aa3c2; padding-left: 1em; margin-bottom: 2em;">
+
+<p style="color:#4a96b3; font-style:italic; font-weight:600; font-size:1.15em; margin-bottom:0.7em;">
 Latest draft · August 2026
 </p>
+
 
 
 **Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon**  
 with [Luise Eisfeld](https://luiseeisfeld.github.io/) and [Jun Yan](https://sites.google.com/view/jun-yan)  
 [*(Latest version)*](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) | Updated August 2026
 
----
+</div>
 
+---
 ## Macroeconometrics
 
 <h3 style="color:#777; font-weight:500; font-size:1em;">
@@ -61,7 +65,7 @@ SELECTED WORK IN PROGRESS
 </h3>
 
 **Financial Technology, Low Rates, and Bank Risk in China: A Solvency-Prudence Perspective**  
-with Penghao Cheng and Yanni Zhang
+with [Penghao Cheng](https://www.linkedin.com/in/penghao-cheng-78b1924a) and Yanni Zhang
 
 ---
 
