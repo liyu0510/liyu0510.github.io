@@ -12,26 +12,26 @@ Latest draft · August 2026
 
 
 **Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon**  
-with Luise Eisfeld and Jun Yan  
-[Paper] | Updated August 2026
+with [Luise Eisfeld](https://luiseeisfeld.github.io/) and [Jun Yan](https://sites.google.com/view/jun-yan)  
+[*(Latest version)*](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) | Updated August 2026
 
 ---
 
 ## Macroeconometrics
 
 <h3 style="color:#777; font-weight:500; font-size:1em;">
-Working Papers
+WORKING PAPERS
 </h3>
 
 **Public Mortgage Credit News and the Changing Architecture of Financial Intermediation**  
-with Huachen Li  
+with [Huachen Li](https://sites.google.com/view/huachenli/home)  
 *Draft coming soon.*
 
 We identify forward-looking news shocks to the capacity of the U.S. public mortgage credit channel and study how their transmission through financial intermediaries has changed over time. We find substantial changes around the Global Financial Crisis, with stronger propagation to commercial-bank credit and state-dependent amplification in financial conditions and real activity.
 
 
 <h3 style="color:#777; font-weight:500; font-size:1em;">
-Selected Work in Progress
+SELECTED WORK IN PROGRESS
 </h3>
 
 **Geopolitical Oil Shocks**    
@@ -45,7 +45,7 @@ Selected Work in Progress
 ## Financial Intermediation and Banking
 
 <h3 style="color:#777; font-weight:500; font-size:1em;">
-Working Papers
+WORKING PAPERS
 </h3>
 
 **Monetary Policy and Global Bank Lending: A Reversal Interest Rate Approach**  
@@ -57,7 +57,7 @@ This paper studies how monetary policy affects the geographic allocation of lend
 
 
 <h3 style="color:#777; font-weight:500; font-size:1em;">
-Selected Work in Progress
+SELECTED WORK IN PROGRESS
 </h3>
 
 **Financial Technology, Low Rates, and Bank Risk in China: A Solvency-Prudence Perspective**  
@@ -68,11 +68,11 @@ with Penghao Cheng and Yanni Zhang
 ## Market Structure and Digital Markets
 
 <h3 style="color:#777; font-weight:500; font-size:1em;">
-Working Papers
+WORKING PAPERS
 </h3>
 
 **Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon**  
-with Luise Eisfeld and Jun Yan  
-[Paper]
+with [Luise Eisfeld](https://luiseeisfeld.github.io/) and [Jun Yan](https://sites.google.com/view/jun-yan)  
+[*(Latest version)*](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) 
 
 We study how hybrid platform operation shapes price competition when a platform simultaneously competes with third-party sellers and earns commission revenue from their sales. We show how revenue sharing and commission-induced double markup generate asymmetric pricing incentives and cost pass-through between the platform and third-party sellers.
