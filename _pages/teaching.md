@@ -17,7 +17,7 @@ Fall 2026
 Fall 2026
 
 
-## Master's
+## Master
 
 **New Structural Economics: Industrial Policy**  
 Spring 2025, Spring 2026
