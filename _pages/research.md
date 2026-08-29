@@ -15,6 +15,7 @@ Latest draft · August 2026
 
 
 **Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon**  [*(Latest version)*](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf)
+
 with [Luise Eisfeld](https://luiseeisfeld.github.io/) and [Jun Yan](https://sites.google.com/view/jun-yan)  
 
 </div>
